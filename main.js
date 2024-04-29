@@ -1,6 +1,6 @@
 //IIFE
 
-import('./slider.js');
+
 
 (function () {
     "use strict";
@@ -53,4 +53,5 @@ import('./slider.js');
   //new
 
   
- 
+
+
