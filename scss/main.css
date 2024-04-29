@@ -506,7 +506,6 @@ a:hover {
   }
 }
 .tab-row > .col-12, .tab-row > .col-6, .tab-row > .col-4 {
-  display: table-cell;
   vertical-align: middle;
   height: 100%;
 }
