@@ -510,7 +510,6 @@ a:hover {
   display: table-cell;
   vertical-align: middle;
   height: 100%;
-  float: none;
 }
 
 @media screen and (min-width: 640px) {
