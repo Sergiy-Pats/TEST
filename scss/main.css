@@ -303,6 +303,12 @@ a:hover {
   }
 }
 
+.slider-3 {
+    position: relative;
+    padding: 0 15px;
+    max-width: 100%;
+}
+
 button.cta {
   padding: 0.75em 1.5em;
   background: white;
