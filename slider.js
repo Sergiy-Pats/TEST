@@ -3,7 +3,7 @@
 //if (window.innerWidth <= 768) {
 
 function slider_3() {
-	$(".slider-3").slick({
+	$(".slider").slick({
 		slidesToShow: 2,
 		slidesToScroll: 1,
 		arrows: false,
