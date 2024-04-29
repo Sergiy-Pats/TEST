@@ -4,7 +4,7 @@
 
 function slider_3() {
 	$(".slider-3").slick({
-		slidesToShow: 3,
+		slidesToShow: 2,
 		slidesToScroll: 1,
 		arrows: false,
 		dots: true,
