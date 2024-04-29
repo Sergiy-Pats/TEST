@@ -309,6 +309,11 @@ a:hover {
     max-width: 100%;
 }
 
+.slick-list  {
+display:flex;
+
+}
+
 button.cta {
   padding: 0.75em 1.5em;
   background: white;
