@@ -437,7 +437,6 @@ a:hover {
 }
 
 .tab-row {
-  display: table;
   height: 100%;
   vertical-align: middle;
 }
